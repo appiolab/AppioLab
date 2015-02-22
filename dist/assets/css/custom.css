@@ -1,0 +1,71 @@
+/*Layout*/
+a{
+    color: green;
+}
+a:hover{
+    color: darkgreen!important;
+}
+body{
+    background-color: #fcfcfc;
+}
+header,
+.container-wrapper{
+    background: #ffffff;
+}
+.container-wrapper{
+    padding: 0 0 30px 0;
+}
+
+footer{
+    padding: 30px 0 50px 0;
+
+}
+
+/*Home*/
+.welcome_text{
+    margin-top: 20px;
+    font-size: 1.4em;
+    line-height: 1.8em;
+}
+.apl_tagline{
+    font-size: 1.15em;
+    line-height: 1.6em;
+}
+.apl_tagline strong{
+    color: darkgreen;
+}
+#our-technology h2{margin: 50px 0 20px 0; font-size: 1.8em;}
+#our-technology .tech-section{color: #444444;}
+#our-technology .tech-section ul li{margin: 3px 0 5px 0;}
+
+#our-technology .section_title{font-weight: 600; color: #444; font-size: 1.15em;padding: 5px 0;}
+
+/* Page */
+.page{
+    margin: 20px 0 0 0;
+}
+.page .page-title{
+    margin: 0;
+    color: green;
+}
+.page .content p{
+    font-size: 1.2em;
+    line-height: 1.8em;
+}
+
+#ou
+/*BOOTSTRAP FIX*/
+.navbar{
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+.apl-nav{
+    margin-bottom: 0;
+    padding-bottom: 0;
+    background-color: #fcfcfc;
+    background-image: none;
+    box-shadow: none;-moz-box-shadow: none;-webkit-box-shadow: none;
+    border-radius: 0;
+    border-bottom: 1px solid #cccccc;
+    border-top: none;
+}

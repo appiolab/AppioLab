@@ -1,0 +1,30 @@
+{
+  "name": "AppioLab.com",
+  "version": "1.0.0",
+  "homepage": "http://www.appiolab.com",
+  "description": "Offshore Web App Development Service",
+  "main": "gulpfile.js",
+  "keywords": ["Bootstrap", "Fontawesome", "Angularjs", "Annimate.css"],
+  "dependencies":{
+    "jquery":"1.11.2",
+    "bootstrap": "3.3.2",
+    "angular": "1.3.13",
+    "angular-animate": "1.2.21",
+    "angular-ui-router": "0.2.10",
+    "fontawesome":"4.3.0",
+    "fontawesome":"4.3.0",
+    "animate-css":""
+  },
+  "authors": [
+    "Ariful Haque"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
